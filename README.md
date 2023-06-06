@@ -132,11 +132,11 @@ To create a Gliding box animation using CSS animation.
 ```
 
 ## OUTPUT:
-#### Gliding Animation:
+### Gliding Animation:
 
 ![image](https://github.com/Aashima02/Gliding-Box/assets/93427086/f8baee55-ad4e-4153-94ea-b603f4b260b7)
 
-#### On Cursor Hover:
+### On Cursor Hover:
 ![image](https://github.com/Aashima02/Gliding-Box/assets/93427086/d864081f-0307-4e04-99c6-cd63a25cba8b)
 
 
